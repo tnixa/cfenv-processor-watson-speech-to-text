@@ -1,2 +1,2 @@
 io.pivotal.cfenv.spring.boot.CfEnvProcessor=\
-  org.terrence.cfenvprocessors.watsonspeechtotextWatsonSpeechToTextCfEnvProcessor
+  org.terrence.cfenvprocessors.watsonspeechtotext.WatsonSpeechToTextCfEnvProcessor
